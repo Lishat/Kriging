@@ -1,2 +1,2 @@
-# Krigging
-Variogram modelling, fitting and Krigging methods implemented in the field of Geostatistics
+# Kriging
+Variogram modelling, fitting and Kriging methods implemented in the field of Geostatistics
